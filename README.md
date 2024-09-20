@@ -1,4 +1,4 @@
-<h1>Print ('Hello World!') </h1> hehe, get it... because its the first thing people learn to write
+<h1>Print ('Hello World!') </h1>
 
 Hello! Im a Arizona State University undergrad currently working towards their computer science degree. I hope you enjoy going through my readme!
 
