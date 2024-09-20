@@ -10,7 +10,7 @@ Hello! Im a Arizona State University undergrad currently working towards their c
 + C++/C
 + GDScript and Godot Engine
 
-###Goals
+### Goals
 - [ ] Get summer 2025 internship
 - [ ] Acomplish a project end of Fall 2024 term
 - [X] Create a simple first game project
