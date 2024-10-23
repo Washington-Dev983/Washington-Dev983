@@ -8,6 +8,7 @@ Hello! Im a Arizona State University undergrad currently working towards their c
 ### Currently Studying/improving
 + Data Structures and Algorithms
 + C++/C
++ Python
 + GDScript and Godot Engine
 
 ### Goals Fall 2024 - Summer 2025
