@@ -14,5 +14,4 @@
 ## Say Hi
 I may not be the most talkative person, but I really love listening to people! Reach out where ever and I might respond!
 
-"People think computers will keep them from making mistakes. They're wrong. With computers you make mistakes faster"
-- *Adam Osborne*
+"People think computers will keep them from making mistakes. They're wrong. With computers you make mistakes faster" -*Adam Osborne*
