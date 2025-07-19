@@ -18,7 +18,7 @@ I'm not very talkative, but I really enjoy listening. Feel free to reach out!
 ---
 
 > *"People think computers will keep them from making mistakes. They're wrong. With computers you make mistakes faster."*  
-> - **Adam Osborne**
+> —**Adam Osborne**
 >
 > *"Computers are incredibly fast, accurate, and stupid; humans are incredibly slow, inaccurate, and brilliant; together they are powerful beyond imagination"*
-> - **Albert Einstein**
+> —**Albert Einstein**
