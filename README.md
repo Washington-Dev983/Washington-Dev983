@@ -1,17 +1,21 @@
-# Hey! I'm Bee, B dubs, Brandon. </br> Depends on who you ask I guess.
-- Arizona State computer science bachelors student minoring in physics
-- Interested in quantum computing and AI/ML or whatever catches my interest that week
-- Usually working in python or c++, but I enjoy tossing myself into the unknown
+# Hey! I'm Bee, B-Dubs, Brandon  
+Depends on who you ask, I guess.
 
-## Upcoming Projects
-- Statistics and probability dive with a blackjack trainer web app (Python FastAPI, JS, HTML/CSS)
-- Quantum computing toy projects (Python Qiskit)
+- CS undergrad at Arizona State University, minoring in Physics  
+- Interested in quantum computing, AI/ML or whatever cool topic I see online that week  
+- Usually coding in Python or C++, but I love throwing myself into the unknown  
 
-## Repo Showcase
-- [Blackjack cli game](https://github.com/Washington-Dev983/BlackJack-Trainer) (*To be web app with probability information*)
-- Quantum computing toy project (*Planned*)
+## Current Projects  
+- **Blackjack Trainer Web App** — exploring probability/statistics through gameplay *(Python + FastAPI, JS, HTML/CSS)*  
+- **Quantum Computing Toy Projects** — experimenting with Qiskit and core concepts  *(Python + Qiskit)*
 
-## Say Hi
-I may not be the most talkative person, but I really love listening to people! Reach out where ever and I might respond!
+## Repo Showcase  
+- [Blackjack CLI Game](https://github.com/Washington-Dev983/BlackJack-Trainer) — baseline for full web app  
 
-"People think computers will keep them from making mistakes. They're wrong. With computers you make mistakes faster" -*Adam Osborne*
+## Say Hi  
+I'm not very talkative, but I really enjoy listening. Feel free to reach out!
+
+---
+
+> *"People think computers will keep them from making mistakes. They're wrong. With computers you make mistakes faster."*  
+> — **Adam Osborne**
