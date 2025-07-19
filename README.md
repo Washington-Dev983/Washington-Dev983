@@ -6,8 +6,8 @@ Depends on who you ask, I guess.
 - Usually coding in Python or C++, but I love throwing myself into the unknown  
 
 ## Current Projects  
-- **Blackjack Trainer Web App** — exploring probability/statistics through gameplay *(Python + FastAPI, JS, HTML/CSS)*  
-- **Quantum Computing Toy Projects** — experimenting with Qiskit and core concepts  *(Python + Qiskit)*
+- **Blackjack Trainer Web App** — exploring probability/statistics by gambling *(Python + FastAPI, JS, HTML/CSS)*  
+- **Quantum Computing Toy Projects** — experimenting quantum computing with Qiskit  *(Python + Qiskit)*
 
 ## Repo Showcase  
 - [Blackjack CLI Game](https://github.com/Washington-Dev983/BlackJack-Trainer) — baseline for full web app  
