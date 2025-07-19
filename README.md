@@ -1,4 +1,5 @@
-# Hey! I'm Bee, B dubs, Brandon. </br>Depends on who you ask I guess.
+# Hey! I'm Bee, B dubs, Brandon. 
+### Depends on who you ask I guess.
 - Arizona State computer science bachelors student minoring in physics
 - Interested in quantum computing and AI/ML or whatever catches my interest that week
 - Usually working in python or c++, but I enjoy tossing myself into the unknown
